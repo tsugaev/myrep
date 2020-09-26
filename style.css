@@ -1,3 +1,9 @@
-div {
-    background-color: red;
+.alvi {
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: #843939;
+    color: white;
+    border-radius: 50px 50px 50px 50px;
 }
